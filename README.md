@@ -96,15 +96,9 @@ Aktualnie sprawdza:
 - nieaktualne wpisy Dodaj/usun programy
 - martwe skroty z Menu Start i Pulpitu
 - uslugi/sterowniki wskazujace na nieistniejace pliki
-
 Nie dotyka profili przegladarek, ciasteczek, hasel, dokumentow, save'ow gier ani losowych katalogow AppData.
 
-## Safety details
-See [docs/SAFETY.md](docs/SAFETY.md).
-
-## License
-MIT
-
-## Author: simgik 
-> Development note: CleanKit is built by simgik with AI-assisted coding and manual review/testing.
-> 04/07/2026 18:15
+**Safety details: [docs/SAFETY.md](docs/SAFETY.md).**
+**License: MIT**
+**Author: simgik**
+> Development note: CleanKit is built by simgik with AI-assisted coding and manual review/testing - 04/07/2026 18:15
