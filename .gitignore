@@ -1,7 +1,7 @@
 Desktop/
 CleanKit/
-quarantine/
+quarantine*/
 *.log
 *.reg
-CleanKit-report.txt
+CleanKit-report-*.txt
 dist/
