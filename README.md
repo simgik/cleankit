@@ -3,7 +3,6 @@
 
 A cautious Windows cleanup toolkit with report-first scans, backups, and explicit cleanup confirmation.
 CleanKit is focused on safe, explainable cleanup instead of registry-cleaner magic. It starts with stale app entries, broken shortcuts, and dead services, but the name leaves room for future cleanup modules.
-> Development note: CleanKit is built by simgik with AI-assisted coding and manual review/testing.
 
 ## Features
 - Read-only scan first
@@ -106,5 +105,6 @@ See [docs/SAFETY.md](docs/SAFETY.md).
 ## License
 MIT
 
-## Author
-simgik
+## Author: simgik 
+> Development note: CleanKit is built by simgik with AI-assisted coding and manual review/testing.
+> 04/07/2026 18:15
