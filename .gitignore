@@ -1,0 +1,7 @@
+Desktop/
+CleanKit/
+quarantine/
+*.log
+*.reg
+CleanKit-report.txt
+dist/
